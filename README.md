@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/yt_tecyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_tecyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codeunchainedoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeunchainedoffical" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yt_techyan?igsh=bHg1b2g2Z2E2Nm9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_tecyan" height="30" width="40" /></a>
+<a href="https://youtube.com/@codeunchainedoffical?si=_Sla5x61JCqWF-uF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeunchainedoffical" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/831001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="831001" height="30" width="40" /></a>
 </p>
 
