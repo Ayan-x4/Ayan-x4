@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Focused on Performance & UX Building Scalable & Interactive Web Applications with Modern JavaScript Developer Focused on Clean Code, Performance & User Experience</h3>
+<h3 align="center">I am a passionate and self-motivated developer with a strong interest in building modern and user-friendly web applications. I have experience working with technologies like Java, JavaScript, React, HTML, CSS, and Tailwind CSS.
+
+I enjoy turning ideas into real-world projects and continuously improving my skills by learning new tools and best practices. I focus on writing clean, efficient code and creating responsive, visually appealing user interfaces.
+
+Currently, I am exploring more advanced concepts in web development and aiming to grow as a full-stack developer.</h3>
 
 - 🔭 I’m currently working on **Web App Development**
 
