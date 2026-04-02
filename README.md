@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Muhammad Ayan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;React+%7C+JavaScript+Enthusiast;Always+Learning+New+Things" />
@@ -27,6 +27,11 @@
 </p>
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/yt_techyan?igsh=bHg1b2g2Z2E2Nm9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_tecyan" height="30" width="40" /></a>
+<a href="https://youtube.com/@codeunchainedoffical?si=_Sla5x61JCqWF-uF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeunchainedoffical" height="30" width="40" /></a>
+</p>
 
 ### 🔥 About Me
 <p align="center">
