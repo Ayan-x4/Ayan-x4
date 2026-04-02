@@ -32,7 +32,7 @@
 <a href="https://www.instagram.com/yt_techyan?igsh=bHg1b2g2Z2E2Nm9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_tecyan" height="30" width="40" /></a>
 <a href="https://youtube.com/@codeunchainedoffical?si=_Sla5x61JCqWF-uF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeunchainedoffical" height="30" width="40" /></a>
 </p>
----
+
 ### 🔥 About Me
 <p align="center">
   ✨ I focus on writing clean, efficient code <br>
