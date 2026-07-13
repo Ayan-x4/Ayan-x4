@@ -1,41 +1,88 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
+<a href="https://github.com/Ayan-x4">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+<img src="./light.svg" alt="Muhammad Ayan"/>
+</picture>
+</a>
+
+---
+
+<h2 align="center">Hi 👋 I'm Muhammad Ayan</h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;React+%7C+JavaScript+Enthusiast;Always+Learning+New+Things" />
+MERN Stack Developer • Java Developer • Learning Agentic AI
 </h3>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Learning+DSA+%26+Agentic+AI;Open+Source+Enthusiast" />
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  💻 Passionate and self-motivated developer <br>
-  🌐 Focused on building modern & user-friendly web applications <br>
-  🚀 Love turning ideas into real-world projects <br>
-  📚 Continuously learning new technologies
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,html,css"/>
+
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,tailwind" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayan-x4&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Ayan-x4&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-x4&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophy
+
 <p align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-x4&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayan-x4&theme=tokyonight&margin-w=15"/>
+
 </p>
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/yt_techyan?igsh=bHg1b2g2Z2E2Nm9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_tecyan" height="30" width="40" /></a>
-<a href="https://youtube.com/@codeunchainedoffical?si=_Sla5x61JCqWF-uF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeunchainedoffical" height="30" width="40" /></a>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan-x4&theme=tokyo-night"/>
+
 </p>
 
-### 🔥 About Me
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  ✨ I focus on writing clean, efficient code <br>
-  🎨 I build responsive and visually appealing UI <br>
-  🎯 Goal: Become a Full Stack Developer
+
+<img src="https://raw.githubusercontent.com/Ayan-x4/Ayan-x4/output/github-contribution-grid-snake.svg"/>
+
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting ⭐
+
+</div>
